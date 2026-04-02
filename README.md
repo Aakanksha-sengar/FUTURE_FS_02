@@ -70,7 +70,7 @@ git clone https://github.com/Aakanksha-sengar/FUTURE_FS_02.git
 ## 🌍 Deployment
 
 Deployed on Render (Live link here)
-
+ https://future-fs-02-1-rigb.onrender.com
 ---
 Screenshots here
 
